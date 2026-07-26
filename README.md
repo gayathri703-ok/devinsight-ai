@@ -6,7 +6,7 @@
 
 DevInsight AI turns any public GitHub repository into a **Repository Health Score** — backed by real activity data, code quality signals, security checks, and an AI-generated plain-English summary.
 
-[**Live Demo**](https://your-frontend.vercel.app) · [**API Docs**](https://your-backend.onrender.com/docs) · [**Report a bug**](https://github.com/gayathri703-ok/devinsight-ai/issues)
+[**Live Demo**](https://devinsight-dashboard-flame.vercel.app/) · [**API Docs**](https://devinsight-ai-yw4y.onrender.com/docs) · [**Report a bug**](https://github.com/gayathri703-ok/devinsight-ai/issues)
 
 [![GitHub](https://img.shields.io/badge/GitHub-gayathri703--ok-181717?style=flat&logo=github)](https://github.com/gayathri703-ok)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gayathri703-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gayathri703)
@@ -107,7 +107,7 @@ Each category is computed from **live GitHub data**, not estimated. Security fin
 | `GET` | `/github/{owner}/{repo}/security-report` | Security score and individual findings |
 | `GET` | `/analyses` | History of every repository analyzed so far |
 
-Full interactive documentation: **[/docs](https://your-backend.onrender.com/docs)**
+Full interactive documentation: **[/docs](https://devinsight-ai-yw4y.onrender.com/docs)**
 
 ## Run it locally
 
