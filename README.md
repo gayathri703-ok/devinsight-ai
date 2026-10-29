@@ -155,3 +155,9 @@ Built by **Gayathri** as a full-stack portfolio project demonstrating backend en
 [GitHub](https://github.com/gayathri703-ok) · [LinkedIn](https://www.linkedin.com/in/gayathri703)
 
 </div>
+
+## Roadmap: DevInsight AI 2.0
+- [ ] Repository Chat with RAG
+- [ ] Repository Analysis Agent
+- [ ] MCP server
+- [ ] ML maintenance-risk classifier (separate from the rule-based health score)
